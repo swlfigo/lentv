@@ -1,0 +1,4 @@
+// 可直接打开 LenTV.xcodeproj，模拟器和 Mac 本地运行不需要配置团队。
+// 真机签名可在 Xcode 的 Signing & Capabilities 中选择自己的 Team，
+// 或在同目录创建不入库的 Signing.local.xcconfig，填写 DEVELOPMENT_TEAM = 你的团队 ID。
+#include? "Signing.local.xcconfig"

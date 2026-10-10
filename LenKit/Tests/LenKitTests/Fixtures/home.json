@@ -1,0 +1,84 @@
+{
+ "config": {
+  "hot_movies_count": 12,
+  "hot_tv_count": 12,
+  "commentary_count": 8,
+  "authors_count": 6,
+  "reviews_count": 4,
+  "short_videos_count": 8,
+  "show_quick_nav": false,
+  "show_hot_movies": true,
+  "show_hot_tv": true,
+  "show_commentary": false,
+  "show_authors": true,
+  "show_reviews": true,
+  "show_short_videos": true
+ },
+ "movies": [
+  {
+   "id": 41660,
+   "title": "欲吐还吞",
+   "poster": "https://hongniuzyimage.com/cover/a43211144d28e83bb92a01329e75142d.jpg",
+   "release_date": "2026",
+   "region": "菲律宾",
+   "duration": null,
+   "director": "西格丽德·波隆",
+   "actors": "Mayumi De Vera,Kim Yashii,里诺亚·哈利利,吉恩·拉尤格",
+   "description": "一名女大学生在校园暴力男友和神秘女教授的暧昧之间挣扎，却因一段视频受制于人。在事业与尊严的两难抉择中，两人被迫走向一场无法回头的交易",
+   "rating": "0.0",
+   "category_name": "剧情",
+   "type": "剧情"
+  },
+  {
+   "id": 41647,
+   "title": "生化危机：爆发夜",
+   "poster": "https://dbzy5.com/upload/vod/20260919-1/d6fadff122fc757a0943946563e70c25.jpg",
+   "release_date": "2026",
+   "region": "美国",
+   "duration": null,
+   "director": "扎克·克雷格",
+   "actors": "奥斯汀·艾布拉姆斯,保罗·沃尔特·豪泽,扎克·切利,卡莉·瑞斯,约翰诺·威尔逊",
+   "description": "故事聚焦奉命奔赴浣熊市的医疗速递员布莱恩（奥斯汀·艾布拉姆斯 饰），意外深陷全城失控的病毒浩劫。浣熊市彻底沦陷，异变怪物横行肆虐、嗜血猎捕，身陷末日绝境的他，能否在这场惊魂噩梦中突围求生，搏出一线生机？",
+   "rating": "0.0",
+   "category_name": "科幻",
+   "type": "科幻"
+  }
+ ],
+ "tvSeries": [
+  {
+   "id": 22064,
+   "title": "亲爱的警督",
+   "poster": "https://dbzy5.com/upload/vod/20260920-1/2735d94f195b298814127ee1da0809c8.jpg",
+   "first_air_date": "2026",
+   "region": "泰国",
+   "total_episodes": 4,
+   "current_episodes": 4,
+   "status": "published",
+   "director": null,
+   "actors": "瓦纳拉特·拉萨梅拉特,亚南·翁,Thanaporn Wagprayoon,达维·格凌陂勒,Jirawat Vongdilokvath",
+   "description": "“和我结婚吧，六个月后我们就离婚。”Thiartha督察的母亲给他下了最后通牒，为了转运，他必须和一位名字里有特定字母且生日是10月13日星期一的人结婚。没想到，他的后辈、小警察Mangkorn正好符合所有条件，从出生日期到名字拼写。就这样，一场契约婚姻开始了。改编自Kanola的小说《督察蒂亚的契约妻子》。",
+   "rating": "0.0",
+   "category_name": "泰剧",
+   "type": "泰剧"
+  },
+  {
+   "id": 22301,
+   "title": "无可替代",
+   "poster": "https://hongniuzyimage.com/cover/0c6375950ad0aa87234bc1aa8ce096df.jpg",
+   "first_air_date": "2026",
+   "region": "中国大陆",
+   "total_episodes": 16,
+   "current_episodes": 16,
+   "status": "published",
+   "director": "陈铭章,陈世峄",
+   "actors": "赵今麦,魏大勋,周奇,白冰,胡意旋,田轩宁 / 高茂桐 / 杨玏 / 王锵 / 奚望 / 林小宅 / 邬立朋 / 连凯 / 盖玥希 / 李子峰 / 谢帅 / 周铁 / 王媛可",
+   "description": "讲述禀承“这一生绝对不能被别人替代”理念的女白领徐迟，在职场上过关斩将，与公司合伙人叶信之一路携手厮杀，最终成为无可替代之人的故事。 “黑莲花”徐迟与“精狐狸”叶信之互相扶持又相爱相杀！金牌编剧张巍全新都市力作，快节奏爽情节短剧模式，直击当下年轻人痛点，带你职场打怪升级通关！",
+   "rating": "0.0",
+   "category_name": "国产剧",
+   "type": "国产剧"
+  }
+ ],
+ "reviews": [],
+ "shortVideos": [],
+ "authors": []
+}

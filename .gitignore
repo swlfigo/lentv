@@ -1,0 +1,25 @@
+.DS_Store
+xcuserdata/
+
+# Xcode 个人状态与本机签名配置
+*.xcuserstate
+/LenTV.xcodeproj/xcshareddata/Signing.local.xcconfig
+
+# 构建产物
+/build/
+/DerivedData/
+LenKit/.build/
+LenKit/.swiftpm/
+
+# 逆向分析用的 APK、反编译结果和接口样本
+/work/
+
+# 设计素材：用图片模型生成的草稿和对比图都不入库，
+# 只保留图标生成脚本和定稿原图
+/design/*
+!/design/icon/
+/design/icon/*
+!/design/icon/makeicons.swift
+!/design/icon/original/
+/design/icon/original/*
+!/design/icon/original/bear-final.jpg
